@@ -9,3 +9,5 @@ p{
 	color:magenta;
 }
 p:hover{background-color: black;}
+a{color: white;
+font-size: 60px}
