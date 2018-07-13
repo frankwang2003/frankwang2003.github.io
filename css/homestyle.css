@@ -3,7 +3,7 @@ background-color: cyan;
 font-family:"Times New Roman", Times, serif;
 font-style: italic;
 color: purple; }
-a{font-size: 40px;
+a{font-size: 42px;
 background-color: cyan
 color: pink;}
 a:hover{background-color: pink}
@@ -11,3 +11,4 @@ div{background-color: cyan;
 	border-style: dotted;}
 img{display: block;
 margin: auto;}
+audio{position: fixed;}
