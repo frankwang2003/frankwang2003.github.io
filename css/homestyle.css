@@ -11,4 +11,6 @@ div{background-color: cyan;
 	border-style: dotted;}
 img{display: block;
 margin: auto;}
-audio{position: fixed;}
+audio{position: fixed;
+right: 0;
+bottom: 0;}

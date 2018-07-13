@@ -22,4 +22,9 @@ ol{text-indent: 2px;}
 a{display: block;
 margin: auto;
 font-size: 40px}
-audio{position:fixed;}
+audio{position:fixed;
+right: 0;
+bottom: 0;}
+div{margin-right: 10%;
+margin-left: 10%;
+width: 80%;}
