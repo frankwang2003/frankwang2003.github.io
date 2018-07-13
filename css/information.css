@@ -7,6 +7,9 @@ h1{
 p{
 	font-size: 50px;
 	color:magenta;
+	margin-right: 10%;
+	margin-left: 10%;
+	width:80%;
 }
 p:hover{background-color: black;}
 a{color: white;
